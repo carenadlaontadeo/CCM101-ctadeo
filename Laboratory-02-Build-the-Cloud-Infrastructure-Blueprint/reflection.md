@@ -19,5 +19,3 @@ During this laboratory activity, I learned how to investigate a Linux server usi
 ## 5. How has your GitHub portfolio improved after completing this mission?
 
 My GitHub portfolio improved because I added another organized laboratory activity with technical documentation, infrastructure reports, cloud component explanations, and a cloud provider comparison. I also added screenshots and a simple cloud infrastructure diagram as evidence of my work. Completing this mission helped me practice organizing files professionally and using GitHub to document my learning and laboratory activities.
-
- experience investigating a Linux environment and documenting technical information using Markdown and GitHub. The activity also improved my understanding of cloud services and helped me develop useful skills for future cloud computing projects.
