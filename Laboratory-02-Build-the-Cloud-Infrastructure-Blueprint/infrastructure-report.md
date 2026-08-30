@@ -1,4 +1,4 @@
-## CLOUD INFRATRUCTURE REPORT
+## CLOUD INFRASTRUCTURE REPORT
 
 ## Operating System
 The Linux server is running Ubuntu. The system architecture is x86_64, which supports both 32-bit and 64-bit CPU operation modes.
