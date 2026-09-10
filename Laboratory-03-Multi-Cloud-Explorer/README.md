@@ -19,7 +19,3 @@
 | Google Cloud Platform | Compute Engine |
 
 These services can host a Linux server using virtual machine infrastructure.
-
-### Screenshot
-
-![KillerCoda Terminal](screenshots/killercoda-terminal.png)
