@@ -29,3 +29,14 @@ Google Cloud Platform is a strong choice for Artificial Intelligence and Kuberne
 ### 4. Which cloud platform would you personally choose and why?
 
 I would personally choose Microsoft Azure because it provides a wide range of cloud services while also offering strong integration with Microsoft technologies. Its combination of cloud computing, networking, storage, identity management, and hybrid cloud capabilities makes it a practical platform for many organizations.
+
+
+## Equivalent Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon Elastic Kubernetes Service (EKS) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
