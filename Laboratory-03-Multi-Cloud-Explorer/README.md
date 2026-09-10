@@ -1,13 +1,25 @@
-# Laboratory 03 – Multi-Cloud Explorer
+## Checkpoint 7 – Continue Your Linux Investigation
 
-This laboratory activity explores and compares Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+### Linux Server Information
 
-## Mission Objective
+- **Operating System:** Ubuntu 24.04.4 LTS
+- **Architecture:** x86_64
+- **CPU:** Intel Xeon E312xx (Sandy Bridge)
+- **CPU(s):** 1
+- **CPU Speed:** 2.0 GHz
+- **Memory:** 1.9 GiB
+- **Disk Space:** 19 GiB total, 5.4 GiB used, 13 GiB available
 
-The objective of this activity is to explore major cloud platforms, compare their services, analyze different business requirements, and recommend suitable cloud solutions.
+### Cloud Hosting Options
 
-## Cloud Platforms
+| Cloud Provider | Cloud Service |
+|---|---|
+| AWS | Amazon EC2 |
+| Microsoft Azure | Azure Virtual Machines |
+| Google Cloud Platform | Compute Engine |
 
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud Platform (GCP)
+These services can host a Linux server using virtual machine infrastructure.
+
+### Screenshot
+
+![KillerCoda Terminal](screenshots/killercoda-terminal.png)
