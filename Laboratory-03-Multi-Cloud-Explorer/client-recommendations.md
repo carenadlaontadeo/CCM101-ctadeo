@@ -49,3 +49,17 @@ Amazon Web Services (AWS) is a suitable platform for a global e-commerce company
 - Amazon EC2 – for running the e-commerce application
 - Amazon S3 – for storing product images, files, and other data
 - Amazon CloudFront – for delivering website content to users globally
+
+
+---
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides scalable cloud services that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS offers a broad range of services suitable for complex enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Windows Server, Microsoft 365, and Microsoft technologies. |
+| AI / Machine Learning | GCP | GCP provides strong capabilities and services for Artificial Intelligence and Machine Learning workloads. |
+| Kubernetes Deployment | GCP | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure and scalable services suitable for applications serving users around the world. |
