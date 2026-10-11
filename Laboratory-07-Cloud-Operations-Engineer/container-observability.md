@@ -9,3 +9,12 @@
 ## Importance of Logs
 
 Container logs help engineers identify errors and understand what happens inside an application. They are useful for troubleshooting problems, such as missing pages and failed user requests.
+
+## Container Metrics
+
+| Metric | Value |
+|---|---|
+| Container Name | `client-website` |
+| Memory Usage | 2.789 MiB |
+| Memory Limit | 1.859 GiB |
+| CPU Usage | 0.00% |
